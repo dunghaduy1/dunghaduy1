@@ -1,57 +1,33 @@
-# 👨🏻‍💻 [Dũng Hà Duy](https://www.facebook.com/dung.mche/) [@mchem_stinh](https://www.facebook.com/dung.mche/)
+![👋 Hi, my name is DungHaDuy1](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-[![Facebook Badge](https://img.shields.io/badge/-D%C5%A9ng%20H%C3%A0%20Duy-c14438?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/dung.mche/)](https://www.facebook.com/dung.mche/)
-[![Gmail Badge](https://img.shields.io/badge/-gnudyud@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gnudyud@gmail.com)](mailto:gnudyud@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/Smoft5)](https://t.me/Smoft5)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dunghaduy/)](https://www.linkedin.com/in/dunghaduy/)
-
-:wave: Hi, I'm a junior fullstack web developer. I love building softwares, learning new technology. From design to development I love the entire process of building software. I focus on maintainability, performance, and security. Following best practices early on is the way to go and I'm a huge supporter of it.
-
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-<img src="https://metrics.lecoq.io/dunghaduy1?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
-    </details>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is DungHaDuy1
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-<div align="center">
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-| 🚀 **Projects** | 💻 **Technology** |
-| - | - |
-| [![muathecaonhanh.net](https://img.shields.io/static/v1?label=&message=muathecaonhanh.net&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/dunghaduy1/muathecaonhanh.net) | [![Php](https://img.shields.io/static/v1?label=&message=Php&color=3776AB&logo=Php&logoColor=FFFFFF)](https://www.php.net/) [![Jquery](https://img.shields.io/static/v1?label=&message=Jquery&color=yellow&logo=Jquery&logoColor=FFFFFF)](https://jquery.com/) |
-| [![Sale-Website-Laravel](https://img.shields.io/static/v1?label=&message=Sale-Website-Laravel&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/dunghaduy1/Sale-Website-Laravel) | [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=red&logo=Laravel&logoColor=FFFFFF)](https://laravel.com/) [![Jquery](https://img.shields.io/static/v1?label=&message=Jquery&color=yellow&logo=Jquery&logoColor=FFFFFF)](https://jquery.com/) |
-| [![HNY-Countdown-React](https://img.shields.io/static/v1?label=&message=HNY-Countdown-React&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/dunghaduy1/HNY-Countdown-React) [![React-Practice](https://img.shields.io/static/v1?label=&message=React-Practice&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/dunghaduy1/React-Practice) [![Pokemons](https://img.shields.io/static/v1?label=&message=Pokemons&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/dunghaduy1/pokemons) | [![React.js](https://img.shields.io/static/v1?label=&message=React&color=Blue&logo=React&logoColor=FFFFFF)](https://react.dev/) |
-</div>
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-📝 &nbsp;**Latest Blog Posts**
+**<h3 align="left">Rapid Fire</h3>**
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+- 💼 I'm currently working on: **💻 Developing a platform using Laravel and Vue.js**
+- 🌱 I'm currently learning: **📚 DevOps**
+- 💬 Ask me about: **💡 JavaScript, Vue, Laravel and RESTful APIs**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunghaduy1&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
